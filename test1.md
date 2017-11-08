@@ -1,10 +1,10 @@
-![](https://api.ahribori.com/image/fqu_n0LkZ86dr3UhbR8UH6a9.png)
+<img src="https://api.ahribori.com/image/fqu_n0LkZ86dr3UhbR8UH6a9.png" width="600"/>
 
 # 박스 모델(Box Model)
 
 ## 1\. Box Model
 
-![box-model](https://user-images.githubusercontent.com/10773118/32526189-5ea74e74-c46b-11e7-94df-59a911e11e17.png)
+<img src="https://user-images.githubusercontent.com/10773118/32526189-5ea74e74-c46b-11e7-94df-59a911e11e17.png" width="545"/>
 
 ### 1.1\. Content:
 
