@@ -1,1 +1,1 @@
-set GIT_COMMITTER_DATE="Sat 21 Apr 10:53:00 2018 +0900" git commit --date "Sat 21 Apr 10:53:00 2018 +0900"
+set GIT_COMMITTER_DATE="Thu 31 May 10:53:00 2018 +0900" git commit --date "Thu 31 May 10:53:00 2018 +0900"
